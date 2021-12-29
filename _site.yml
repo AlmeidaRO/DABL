@@ -5,9 +5,5 @@ navbar:
 left:
   - text: 'Home'
     href: Home.html
-  - text: 'Recomended'
-    href: Recomended.html
-  - text: 'Links'
-    href: Links.html
   - text: 'About'
     href: About.html
