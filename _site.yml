@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 name: 'DABL'
 output_dir: '.'
+=======
+name: "DABL"
+output_dir: "."
+>>>>>>> 43540640f1dfdb71fcfdef43d5104fa5edef0f83
 navbar:
   title: ''
   left:
