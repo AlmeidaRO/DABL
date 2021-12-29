@@ -1,6 +1,10 @@
 # Config GitHub on terminal (just to first time)
 #git config --global user.name xxxx
 #git config --global user.email zzzz
+#usethis::create_github_token()
+#gitcreds::gitcreds_set()
+
+# Make the source folder
 
 
 # General site structure
