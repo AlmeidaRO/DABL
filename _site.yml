@@ -1,11 +1,12 @@
-name: 'DABL'
 output_dir: '.'
+name: "DABL"
+output_dir: "."
 navbar:
-  title: ''
+  title: ""
   left:
-    - text: 'Home'
+    - text: "Main"
       href: index.html
-    - text: 'About'
+    - text: "About"
       href: about.html
 output:
   html_document:
