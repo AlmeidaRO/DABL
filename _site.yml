@@ -1,0 +1,17 @@
+name: 'DABL'
+output_dir: '.'
+navbar:
+  title: ''
+  left:
+    - text: 'Home'
+      href: index.html
+    - text: 'Recommended'
+      href: recommended.html
+    - text: 'Links'
+      href: links.html
+    - text: 'About'
+      href: about.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
