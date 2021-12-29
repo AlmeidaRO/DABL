@@ -1,12 +1,12 @@
-name: 'Data Analysis and Bioinformatic Lab'
+name: 'DABL'
 output_dir: '.'
 navbar:
-  title: 'DABL'
-left:
-  - text: 'Home'
-    href: Home.html
-  - text: 'About'
-    href: About.html
+  title: ''
+  left:
+    - text: 'Home'
+      href: index.html
+    - text: 'About'
+      href: about.html
 output:
   html_document:
     theme: flatly
