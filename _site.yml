@@ -7,3 +7,7 @@ left:
     href: Home.html
   - text: 'About'
     href: About.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
