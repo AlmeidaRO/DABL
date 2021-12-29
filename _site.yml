@@ -1,0 +1,13 @@
+name: 'Data Analysis and Bioinformatic Lab'
+output_dir: '.'
+navbar:
+  title: 'DABL'
+left:
+  - text: 'Home'
+    href: Home.html
+  - text: 'Recomended'
+    href: Recomended.html
+  - text: 'Links'
+    href: Links.html
+  - text: 'About'
+    href: About.html
